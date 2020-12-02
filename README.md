@@ -1,2 +1,3 @@
 # Hello-Mars
-My test repository
+This is my test repository,
+It looks like a folder.
